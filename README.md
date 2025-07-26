@@ -1,5 +1,4 @@
-# CodTech Internship - Task 1  
- Weather Forecast API Integration and Data Visualization  
+ ## Weather Forecast API Integration and Data Visualization  
 
 ## Objective
 To integrate a real-time API using Python and visualize the data using a graphing library.  
@@ -41,5 +40,6 @@ Docs: https://openweathermap.org/forecast5
 
 ## Submitted
 
-Pradnya Pramod Mhatre
+Pradnya Pramod Mhatre.
+
 Internship: CodTech_Task1
